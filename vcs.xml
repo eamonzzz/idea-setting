@@ -6,6 +6,10 @@
           <option name="url" value="http://git.trustasia.cn" />
           <option name="userName" value="eamonzzz" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="eamonzzz" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
